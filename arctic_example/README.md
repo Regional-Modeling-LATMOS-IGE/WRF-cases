@@ -5,6 +5,14 @@ Shaddy Ahmed (shaddy.ahmed@univ-grenoble-alpes.fr)
 
 Prerequistes: WRF and WPS installed and compiled and WPS data downloaded.
 
+
+Configuration and compilation:
+WRF:
+- Run configure_wrf.sh then compile_wrf.sh
+
+WPS:
+- Run configure_wps.sh then compile WPS
+
 Instructions:
 - Configure your WPS namelist options.
 - Set your directory paths in the WPS jobscript and then run the WPS script.
